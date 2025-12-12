@@ -1,0 +1,8 @@
+{
+  "name": "FridgeSmart Pro",
+  "description": "An AI-powered food security application to maximize food budgets and reduce waste.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
