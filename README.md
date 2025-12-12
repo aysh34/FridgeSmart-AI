@@ -11,7 +11,6 @@ FridgeSmart is a **multimodal AI kitchen assistant** powered by **Gemini 3 Pro**
 [**Live Demo**](https://ai.studio/apps/drive/1j1aqmU97EHh5e20vg3IFnCit-sGcIbIQ)
 
 
-
 ## The Problem
 - **40M Americans** face food insecurity  
 - Average household wastes **$1,866/year** on spoiled groceries  
@@ -29,6 +28,7 @@ FridgeSmart applies **Gemini 3 Pro multimodal AI** to solve food waste end-to-en
 - Works on cluttered, real-world refrigerators  
 
 ![](https://github.com/aysh34/FridgeSmart-AI/blob/main/home_screen.png)
+![](https://github.com/aysh34/FridgeSmart-AI/blob/main/scan_screen.png)
 
 ### Rescue Mode
 - 12-factor optimization engine for recipe generation  
