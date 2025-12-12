@@ -77,20 +77,6 @@ The system detects user sentiment and emotional state, provides non-judgmental g
 
 ---
 
-## Validated Impact
-
-### Beta Test Results (100 Families, 30 Days)
-
-| Metric | Result |
-|--------|--------|
-| Average Savings | **$64/month** (~$768/year) |
-| Waste Reduction | **73%** |
-| Satisfaction Rating | **4.8/5** |
-| Would Recommend | **96%** |
-| Continued Usage | **94%** |
-
----
-
 ## Real-World Impact at Scale
 
 ### If adopted by 10% of U.S. households:
