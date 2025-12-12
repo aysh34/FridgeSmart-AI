@@ -28,16 +28,20 @@ FridgeSmart applies **Gemini 3 Pro multimodal AI** to solve food waste end-to-en
 - Assesses **real freshness** using visual cues (wilting, browning, mold)  
 - Works on cluttered, real-world refrigerators  
 
+![](https://github.com/aysh34/FridgeSmart-AI/blob/main/home_screen.png)
+
 ### Rescue Mode
 - 12-factor optimization engine for recipe generation  
 - Balances **nutrition, time, budget, dietary needs, equipment, and family size**  
 - Saves **$12.50 per activation** on average  
 
+![](https://github.com/aysh34/FridgeSmart-AI/blob/main/recipie.png)
+
 ### Impact Dashboard
 - Tracks **savings, waste reduction, and CO₂ prevention**  
 - Predictive analytics prevent spoilage **before it happens**
 
-
+![](https://github.com/aysh34/FridgeSmart-AI/blob/main/impact_dashboard.png)
 
 ## Technical Achievement
 FridgeSmart demonstrates **eight Gemini 3 Pro capabilities** in one integrated system:
