@@ -1,5 +1,6 @@
+![](https://github.com/aysh34/FridgeSmart-AI/blob/main/banner%20(2).png)
 
-# FridgeSmart: AI-Powered Kitchen Assistant
+# **FridgeSmart: AI-Powered Kitchen Assistant**
 
 *“Every ingredient matters. Every family deserves FridgeSmart.”*
 
