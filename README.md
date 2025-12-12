@@ -76,6 +76,8 @@ FridgeSmart demonstrates **eight Gemini 3 Pro capabilities** in one integrated s
 
 ## How It Works
 
+[![Watch the App in Action](https://img.youtube.com/vi/uQAxoQOlE_c/maxresdefault.jpg)](https://youtu.be/uQAxoQOlE_c)
+
 ### Frontend
 - React-based **Progressive Web App** (mobile-first, offline-capable)  
 - Service worker caching and responsive UI  
