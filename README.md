@@ -6,7 +6,7 @@
 [![Live App](https://img.shields.io/badge/Try-Live%20App-green)](https://ai.studio/apps/drive/1j1aqmU97EHh5e20vg3IFnCit-sGcIbIQ)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-*"Every ingredient matters. Every family deserves FridgeSmart."*
+> *"Every ingredient matters. Every family deserves FridgeSmart."*
 
 I built FridgeSmart to help families save $768 per year while preventing food waste and reducing CO₂ emissions through AI-powered inventory management and meal planning.
 
@@ -47,7 +47,7 @@ Three simple steps to stop food waste:
 ![Home Screen](https://github.com/aysh34/FridgeSmart-AI/blob/main/home_screen.png)
 ![Scan Screen](https://github.com/aysh34/FridgeSmart-AI/blob/main/scan_screen.png)
 
-### Rescue Mode (Patent-Pending)
+### Rescue Mode
 This is the feature that changes everything.
 
 When food is about to spoil, Rescue Mode activates with urgent alerts for at-risk items, creative recipe suggestions for unusual ingredient combinations, a gamified savings counter, and celebration animations when you prevent waste.
@@ -198,3 +198,10 @@ Special thanks to the Google Gemini team for providing the incredible multimodal
 Built with care for a sustainable future by Ayesha Saleem
 
 </div>
+
+<br />
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" alt="Gemini Logo" />
+  <br />
+  Built for the <strong>Google AI Studio Hackathon</strong>
+</p>
